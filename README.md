@@ -2,7 +2,7 @@
 
 ## Inverted Robot Cheese
 
-Type help for a list of commands.
+Type "help" for a list of commands.
 
 
 Inverted Cheese includes:
