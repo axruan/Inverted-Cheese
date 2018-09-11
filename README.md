@@ -1,3 +1,3 @@
 # Inverted Cheese
 
-- Inverted Robot Cheese
+Inverted Robot Cheese
