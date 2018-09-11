@@ -1,3 +1,8 @@
+# Alex Ruan
+# September 11, 2018
+# Inverted Robot Cheese
+# Various threads on StackOverflow
+
 from random import *
 
 numCat = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
